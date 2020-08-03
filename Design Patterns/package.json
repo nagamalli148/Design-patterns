@@ -1,0 +1,24 @@
+{
+  "name": "epam-design-patterns",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node -r esm index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SaiTeja2904/epam-design-patterns.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SaiTeja2904/epam-design-patterns/issues"
+  },
+  "homepage": "https://github.com/SaiTeja2904/epam-design-patterns#readme",
+  "dependencies": {
+    "esm": "^3.2.25"
+  }
+}
